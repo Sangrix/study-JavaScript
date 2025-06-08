@@ -24,3 +24,4 @@ console.log(cookieBox);
 
 // 상수의 값은 변경할 수 없음
 // cookieBox = "과일";
+
